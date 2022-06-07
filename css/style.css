@@ -1,0 +1,477 @@
+.box {
+    width: 1240px;
+    height: 5370px;
+    font-family: Jura;
+    margin: 0 auto;
+}
+
+.top {
+    display: flex;
+    padding: 30px;
+}
+
+.long-block {
+    margin: 40px;
+    margin-left: 320px;
+}
+
+.a_link1 {
+    margin-left: 100px;
+    text-decoration: none;
+    color: #006AA7;
+    font-size: 16px;
+}
+
+.a_link2 {
+    margin-left: 100px;
+    text-decoration: none;
+    color: #006AA7;
+    font-size: 16px;
+}
+
+.a_link3 {
+    text-decoration: none;
+    color: #006AA7;
+    font-size: 16px;
+}
+
+.lower-block {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h_text1 {
+    font-size: 45px;
+}
+
+.p_text1 {
+    font-size: 20px;
+}
+
+.Cossack {
+    border-radius: 70%;
+
+}
+
+.middle-center {
+    width: 600px;
+}
+
+.link_button1 {
+    padding: 20px;
+    background-color: #006AA7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    text-decoration: none;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.link_button1:hover {
+    background-color: #0178BD;
+}
+
+.link_button1::after {
+    transition: 2s;
+}
+
+.a_link1:hover {
+    border-bottom: 2px solid rgb(0, 119, 255);
+}
+
+.a_link2:hover {
+    border-bottom: 2px solid rgb(0, 60, 255);
+}
+
+.a_link3:hover {
+    border-bottom: 2px solid rgb(0, 110, 255);
+}
+
+.Cossack-values {
+    width: 1100px;
+    height: 299px;
+    background: #006AA7;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.h_text2 {
+    line-height: 28px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+}
+
+.blue-block {
+    display: flex;
+}
+
+.Kozak {
+    margin-top: 34px;
+    margin-left: 26px;
+}
+
+.p_text2 {
+    color: #FFFFFF;
+    line-height: 19px;
+    font-size: 16px;
+    margin-top: 10%;
+    margin-left: 28px;
+}
+
+.h_text3 {
+    line-height: 28px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    margin-top: 46px;
+}
+
+.courage_two,
+.honesty,
+.patriotism,
+.loyalty,
+.honor {
+    background: #F5F5F5;
+    border-radius: 10px;
+    width: 170px;
+    height: 220px;
+    margin-left: 16px;
+}
+
+.mini-kozak {
+    display: flex;
+    padding: 30px;
+}
+
+.courage {
+    background: #F5F5F5;
+    border-radius: 10px;
+    width: 170px;
+    height: 220px;
+}
+
+.kozaks {
+    margin-left: 35px;
+    margin-top: 21px;
+}
+
+.h_text4 {
+    text-align: center;
+    margin-top: 30px;
+    border-bottom: 1px solid #FF0000;
+    border-top: 1px solid #FF0000;
+
+}
+
+.h_text4:hover {}
+
+.one-yellow,
+.two-yellow {
+    width: 540px;
+    height: 460px;
+    background: #F9C00D;
+    border-radius: 10px;
+    line-height: 19px;
+    color: #000000;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.two-yelow-block {
+    display: flex;
+    margin: 30px;
+}
+
+.two-yellow {
+    margin-left: 18px;
+}
+
+.h_text5,
+.h_text6,
+.p_text5,
+.p_text6 {
+    margin: 11px;
+}
+
+.white-block {
+    background: #F5F5F5;
+    border-radius: 10px;
+    width: 1100px;
+    height: 200px;
+    display: flex;
+    margin: 30px;
+}
+
+.h_text7 {
+    font-size: 21px;
+    line-height: 25px;
+    margin-left: 410px;
+}
+
+.p_text7 {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+
+}
+
+.skull-cossack {
+    width: 120px;
+    height: 120px;
+    margin: 41px;
+}
+
+.blue-blocks1,
+.blue-blocks2,
+.blue-blocks3,
+.blue-blocks4,
+.blue-blocks5,
+.blue-blocks6,
+.blue-blocks7,
+.blue-blocks8 {
+    width: 250px;
+    height: 250px;
+    background: #0178BD;
+    border-radius: 10px;
+    margin-left: 34px;
+}
+
+.p_text10 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 19px;
+    margin: 9px;
+}
+
+.blues_image {
+    width: 100px;
+    height: 100px;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 18px;
+}
+
+.Zvichai-traditions {
+    display: flex;
+    margin: 20px;
+}
+
+.Zvichai-traditions2 {
+    display: flex;
+    margin: 20px;
+}
+
+.h_text8 {
+    margin-left: 470px;
+    color: #000000;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+}
+
+.Kozaks_img,
+.Kozaks_img2 {
+    margin-left: 34px;
+    width: 245px;
+    height: 145px;
+
+}
+
+.Kozaks_img2 {
+    padding-left: 25px;
+}
+
+.courage:hover,
+.courage_two:hover,
+.honesty:hover,
+.patriotism:hover,
+.loyalty:hover,
+.honor:hover {
+    background-color: #006AA7;
+    color: #FFFFFF;
+}
+
+.blue-blocks1:hover,
+.blue-blocks2:hover,
+.blue-blocks3:hover,
+.blue-blocks4:hover,
+.blue-blocks5:hover,
+.blue-blocks6:hover,
+.blue-blocks7:hover,
+.blue-blocks8:hover {
+    background-color: #006AA7;
+}
+
+.h1_text1 {
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 25px;
+
+    color: #000000;
+    text-align: center;
+}
+
+.h3_text11 {
+    margin-left: 470px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 70px;
+
+    color: #000000;
+}
+
+.Dopomoga {
+
+    width: 1100px;
+    height: 200px;
+    background: #F5F5F5;
+    border-radius: 10px;
+    display: flex;
+    margin: 30px;
+}
+
+.text-dopomoga {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    margin-left: 36px;
+    color: #000000;
+    margin-top: 46px;
+    margin-top: 41px;
+}
+
+.Prisident-Zelen {
+    margin-right: 52px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 70px;
+}
+
+.Dopomoga-photo {
+    margin: 30px;
+    margin-left: 30px;
+}
+
+.dopomoga-voen {
+    margin-left: 34px;
+    width: 250px;
+    height: 160px;
+}
+
+.blue-text2 {
+    width: 1100px;
+    height: 200px;
+    background: #006AA7;
+    border-radius: 10px;
+    margin-left: 70px;
+}
+
+.p_text14 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.h_text14 {
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.text14 {
+    padding-top: 33px;
+}
+
+.images-harkow {
+    margin-top: 26px;
+    margin-left: 40px;
+}
+
+.harkow {
+    margin-left: 34px;
+    width: 245px;
+    height: 155px;
+}
+
+.h_text15 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    margin-top: 32px;
+}
+
+.orange-block {
+
+    width: 540px;
+    height: 200px;
+
+    background: #F9C00D;
+    border-radius: 10px;
+    margin-left: 34px;
+}
+
+.glowny-orange-block {
+    display: flex;
+    padding: 27px;
+}
+
+.p_text16 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    padding: 14px;
+}
+
+.ukr {
+    width: 540px;
+    height: 360px;
+    margin-left: 26px;
+}
+
+.img-urk {
+    margin-left: 36px;
+}
+
+.img-ket {
+    margin-left: 38px;
+}
+
+footer {
+    width: 1240px;
+    height: 100px;
+    background: #006AA7;
+    border-radius: 10px;
+    margin-top: 60px;
+
+}
+
+.h2_text15 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 40px;
+}
+
+.texting {
+    display: flex;
+    margin-left: 500px;
+}
+
+.logo-ukr {
+    margin-top: 30px;
+}
